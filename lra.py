@@ -42,6 +42,8 @@ such no nor not only own same so too very just now then here there one two three
 big small good great better best bad worse worst high low long short hot cold fast slow easy hard
 simple complex free paid premium basic pro enterprise startup company business work home free
 website audit trends blog search explore tools connect pricing agency freelancing
+https http www html href amp nbsp quot egrave agrave ograve igrave ugrave eacute
+code open terminal
 """.split())
 
 
